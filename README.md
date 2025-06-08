@@ -39,7 +39,3 @@ EduHome is a web application built with ASP.NET Core Razor Pages targeting .NET 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
